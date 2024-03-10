@@ -733,7 +733,7 @@ section {
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5cb874;
+  background-color: rgb(233, 116, 81);
 }
 
 /*--------------------------------------------------------------
