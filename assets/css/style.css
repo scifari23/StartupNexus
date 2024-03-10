@@ -689,6 +689,7 @@ section {
   font-weight: 400;
   color: #6ec083;
   justify-content: center;
+  margin: 12px; 
 }
 
 .why-us .content-item h4 {
@@ -701,8 +702,9 @@ section {
 .why-us .content-item p {
   color: #aaaaaa;
   font-size: 15px;
-  margin: 0;
+  margin: 12px;
   padding: 0;
+  
 }
 
 @media (max-width: 768px) {
